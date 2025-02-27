@@ -73,6 +73,8 @@ export default function Index() {
       style={styles.backgroundImage}
     >
       <View style={styles.container}>
+
+        
         {/* Logo */}
         <View style={styles.logoContainer}>
           <Image
